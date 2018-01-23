@@ -1,2 +1,5 @@
 # python_request_interface_test_project
 python_request_interface_test_project
+IED:eclipse
+lang:python
+using requests and unittest
